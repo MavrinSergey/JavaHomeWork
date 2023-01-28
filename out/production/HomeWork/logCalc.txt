@@ -1,0 +1,2 @@
+янв. 28, 2023 8:43:15 PM HW02.Task02 logEntry
+INFO: 2/2 = 1
