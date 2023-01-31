@@ -5,5 +5,6 @@ public class MinMaxAver {
         double y = 10.0;
         double x = y / 3;
         System.out.println(x);
+        System.out.println(x);
     }
 }
