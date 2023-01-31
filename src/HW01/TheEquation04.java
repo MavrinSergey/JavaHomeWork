@@ -4,7 +4,7 @@
 // Предложить хотя бы одно решение или сообщить, что его нет.
 
 // данный вариант работает только с вариантами подобными примеру
-public class Task04TheEquation {
+public class TheEquation04 {
     public static void main(String[] args) {
         String a = "?4";
         String b = "4?";

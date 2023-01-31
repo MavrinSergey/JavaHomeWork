@@ -1,6 +1,7 @@
+package HW01;
 // 2. Вывести все простые числа от 1 до 1000
 import java.util.ArrayList;
-public class Task02PrimeNumbers {
+public class PrimeNumbers02 {
     public static void main(String[] args) {
         ArrayList<Integer> multiplications = new ArrayList<Integer>();
         multiplications.add(2);
@@ -24,9 +25,6 @@ public class Task02PrimeNumbers {
     }
     public static void printList(ArrayList<Integer> list) {
         for (int i = 0; i < list.size(); i++) {
-            if (i % 25 == 0) {
-                System.out.println();
-            }
             System.out.print(list.get(i) + ", ");
         }
         System.out.println();

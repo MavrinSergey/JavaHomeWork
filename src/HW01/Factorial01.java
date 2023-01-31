@@ -1,7 +1,7 @@
 // 1. Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 import java.util.Scanner;
 
-public class Task01Factorial {
+public class Factorial01 {
     public static void main(String[] args) {
 
         System.out.println("Привет данная программа вычисляет треугольное число и факториал введенного вами числа");

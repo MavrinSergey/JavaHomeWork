@@ -1,0 +1,18 @@
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 1-ая итерация.
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 2-ая итерация.
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 3-ая итерация.
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 4-ая итерация.
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 5-ая итерация.
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 6-ая итерация.
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 7-ая итерация.
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 8-ая итерация.
+янв. 29, 2023 7:42:27 PM HW02.BubbleSort logEntry
+INFO: 9-ая итерация.

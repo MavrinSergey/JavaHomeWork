@@ -1,7 +1,7 @@
 // 3. Реализовать простой калькулятор
 
 import java.util.Scanner;
-public class Task03Calculator {
+public class Calculator03 {
     public static void main(String[] args) {
         System.out.println("Привет это простейший калькулятор который умеет складывать вычитать умножать и делить");
 //      int n = Integer.parseInt(System.console().readLine("Введите число: "));

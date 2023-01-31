@@ -1,2 +1,0 @@
-янв. 28, 2023 8:43:36 PM HW02.Task02 logEntry
-INFO: 5-5 = 0
