@@ -15,16 +15,18 @@ public class Queue {
         inArr.add(4);
 
         System.out.println("помещает элемент в конец очереди, вторым параметром передается индекс перемещаемого элемента");
+        System.out.println(inArr + " начальный список");
         Enqueue(inArr, 0);
         System.out.println(inArr + " после перемещения в конец очереди");
         System.out.println();
 
         System.out.println("возвращает первый элемент из очереди и удаляет его");
-        System.out.println(inArr + " после удаления первого элемента");
+        System.out.println(inArr + " начальный список");
         int firstNum = Dequeue(inArr);
         System.out.println(firstNum + " удаленный элемент");
-        System.out.println();
+        System.out.println(inArr + " после удаления первого элемента");
 
+        System.out.println();
         System.out.println("возвращает первый элемент из очереди, не удаляя");
         int firstNum2 = First(inArr);
         System.out.println(inArr + " начальный список");
